@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# env
+.env
+
+# IDE Specific
+nbproject
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+.vscode
+composer.lock
+*.sublime-workspace
+*.swp
+*.swo
+
+# Project Specific
+.eslintcache
+coverage
+node_modules
+*.log
+*.tgz
